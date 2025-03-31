@@ -1,3 +1,11 @@
+/* Zadanie 3
+Funkcja liniowa ma równanie y=ax+b. Napisać program wyliczający miejsce zerowe dla 
+dowolnego równania liniowego ax+b=0 — program wczytuje współczynniki a i b 
+(są to dowolne liczby rzeczywiste) i wyświetla wynik. Program powinien na samym początku 
+wyświetlić krótką informację o jego przeznaczeniu oraz zatrzymać swoje wykonanie po 
+wyświetleniu wyniku — do czasu naciśnięcia klawisza Enter. Zwrócić uwagę na grupowanie 
+instrukcji przy warunkach.*/
+
 #include <iostream>
 using namespace std;
 
